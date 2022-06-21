@@ -1,5 +1,5 @@
-# Hola 🚀 
-Soy Gianna Giavarini, tengo 24 años, vivo en Cordoba Argentina.
+# Hola :wave:
+Me dicen Gianni, tengo 24 años, vivo en Cordoba Argentina.
 ## Actualmente construyo con las siguientes tecnologías 🛠️
 - HTML 5
 - CSS 3
@@ -13,7 +13,7 @@ Soy Gianna Giavarini, tengo 24 años, vivo en Cordoba Argentina.
 - Me encanta incorporar conocimientos, me entusiasma el aprendizaje. 
 - Estoy buscando mi primera experiencia IT ✨
 
-### [Podes escribirme a mi linkedin haciendo click acá :mailbox:]( https://www.linkedin.com/in/gianna-giavarini-b980b5207/) 
+### [Podes escribirme a mi LinkedIn haciendo click acá :mailbox:]( https://www.linkedin.com/in/gianna-giavarini-b980b5207/) 
 
 <!--
 **giannagiava/giannagiava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
