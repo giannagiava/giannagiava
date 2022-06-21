@@ -1,5 +1,5 @@
 # Hola 🚀 
-Soy Gianna Giavarini, tengo 24 años, vivo en Cordoba Argentina y estos son mis conocimientos :boom:
+Soy Gianna Giavarini, tengo 24 años, vivo en Cordoba Argentina.
 ## Actualmente construyo con las siguientes tecnologías 🛠️
 - HTML 5
 - CSS 3
@@ -8,7 +8,7 @@ Soy Gianna Giavarini, tengo 24 años, vivo en Cordoba Argentina y estos son mis 
 -	Python
 -	SQL
 -	Inglés
-### Además  👇
+### Datos de interés  :eyes:
 - Estoy estudiando una tecnicatura en Desarrollo Web en el Instituto Superior Politécnico de Córdoba. 
 - Me encanta incorporar conocimientos, me entusiasma el aprendizaje. 
 - Estoy buscando mi primera experiencia IT ✨
