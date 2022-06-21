@@ -1,15 +1,15 @@
-# Hola :wave:
+## Hola :wave:
 Me dicen Gianni, tengo 24 años, vivo en Cordoba Argentina.
-## Actualmente construyo con las siguientes tecnologías 🛠️
+### Actualmente construyo con las siguientes tecnologías 🛠️
 - HTML 5
 - CSS 3
 - JavaScript
-## Y estoy aprendiendo :seedling:
+### Y estoy aprendiendo :seedling:
 -	Python
 -	SQL
 -	Inglés
 ### Datos de interés  :eyes:
-- Estoy estudiando una tecnicatura en Desarrollo Web en el Instituto Superior Politécnico de Córdoba. 
+- Estoy estudiando una Tecnicatura en Desarrollo Web en el Instituto Superior Politécnico de Córdoba. 
 - Me encanta incorporar conocimientos, me entusiasma el aprendizaje. 
 - Estoy buscando mi primera experiencia IT ✨
 
