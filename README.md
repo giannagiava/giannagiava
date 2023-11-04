@@ -1,5 +1,5 @@
 ## Hola :wave:
-Me dicen Gianni, tengo 24 años y vivo en Cordoba, Argentina.
+Me dicen Gianni, tengo 25 años y vivo en Cordoba, Argentina.
 ### Actualmente construyo con las siguientes tecnologías 🛠️
 - HTML 5
 - CSS 3
@@ -8,8 +8,7 @@ Me dicen Gianni, tengo 24 años y vivo en Cordoba, Argentina.
 -	Python
 -	SQL
 -	Inglés
-### Datos de interés  :eyes:
-- Estoy estudiando una Tecnicatura en Desarrollo Web en el Instituto Superior Politécnico de Córdoba. 
+### Datos de interés  :eyes:. 
 - Me encanta incorporar conocimientos, me entusiasma el aprendizaje. 
 - Estoy buscando mi primera experiencia IT ✨
 
