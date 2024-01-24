@@ -5,7 +5,8 @@ Me dicen Gianni, tengo 25 años y vivo en Cordoba, Argentina.
 - CSS 3
 - JavaScript
 ### Y estoy aprendiendo :seedling:
--	Python
+-	React
+-	Node.js
 -	SQL
 -	Inglés
 ### Datos de interés  :eyes:. 
