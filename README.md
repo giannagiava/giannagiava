@@ -1,7 +1,7 @@
-<h1 align="center">¡Hola! Soy Gianna 👩‍💻</h1>
+<h1 align="center">¡Hola! Soy Gianna 👩🏻‍💻</h1>
 
 <p align="center">
-🌱 Desarrolladora en formación | 🧠 Curiosa por naturaleza | 💬 Apasionada por la tecnología y las personas  
+🌱 Estudiante de desarrollo de software | 🧠 Curiosa por naturaleza |
 </p>
 
 ---
