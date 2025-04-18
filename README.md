@@ -9,7 +9,7 @@
 ### ✨ Sobre mí
 
 Soy una persona proactiva, adaptable y con muchas ganas de seguir creciendo en el mundo IT.  
-Actualmente estudio **Desarrollo de Software** y participo como voluntaria en la Fundación Garabato, donde aplico mis habilidades tech en proyectos con impacto social.  
+Actualmente estudio **Desarrollo de Software** y participo como voluntaria en la [Fundación Garabato](https://fundaciongarabato.org.ar/)  , donde aplico mis habilidades tech en proyectos con impacto social.  
 Me encanta aprender, crear, compartir y trabajar en equipo.
 
 ---
@@ -38,7 +38,7 @@ Si querés conocer más sobre mi experiencia y formación:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](http://linkedin.com/in/giannagiavarini)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/giannagiava)  
-[🌱 Fundación Garabato](https://fundaciongarabato.org.ar/)  
+
 
 ---
 
