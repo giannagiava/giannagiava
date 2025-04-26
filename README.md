@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Gianna 👩🏻‍💻</h1>
 
 <p align="center">
-🌱 Estudiante de desarrollo de software | 🧠 Curiosa por naturaleza |
+| Estudiante de desarrollo de software |
 </p>
 
 ---
