@@ -30,7 +30,7 @@ Me encanta aprender, crear, compartir y trabajar en equipo.
 ### 📄 Mi CV
 
 Si querés conocer más sobre mi experiencia y formación:  
-📥 [Descargá mi CV en PDF](https://github.com/giannagiava/cv-gianna/blob/main/CV_GiannaGiavarini%20(1).pdf)
+📥 [Descargá mi CV en PDF](https://github.com/giannagiava/cv-gianna/blob/main/CV%20Gianna%20Giavarini%202025.pdf)
 
 ---
 
